@@ -39,6 +39,14 @@ Nigeria's telecom industry serves over 220 million subscribers and contributes a
 ## Project Pipeline
 
 ```
+
+
+## Project Pipeline
+
+![Architecture Diagram](architecture_diagram.png)
+
+
+
 Raw CSV Data
     │
     ▼
