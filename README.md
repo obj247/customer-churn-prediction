@@ -2,7 +2,7 @@
 
 **3MTT Nigeria | Cohort 3 | Wesonline Mentorship Programme**
 **Track:** Advanced Data Analysis & Visualization
-**Author:** Okereke Obaji Eze | okereke.obaji@yahoo.com | 08055467867
+**Author:** Okereke Obaji Eze | okereke.obaji@yahoo.com |
 **Location:** Lagos, Nigeria
 
 ---
